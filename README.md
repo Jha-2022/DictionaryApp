@@ -1,5 +1,5 @@
 
-# WeatherApp
+# DictionaryApp
 
 A simple web application that provides real-time weather updates for any location using JavaScript, CSS, and HTML.​
 
@@ -11,7 +11,7 @@ Provides weather details like temperature, humidity, and conditions.​
 Responsive and user-friendly interface.
 
 ## Demo
-<img src="">
+
 
 Technologies Used
 JavaScript
