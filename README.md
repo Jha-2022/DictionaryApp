@@ -1,6 +1,6 @@
-```
+...
 #WeatherApp
-```
+...
 A simple web application that provides real-time weather updates for any location using JavaScript, CSS, and HTML.​
 
 Features
