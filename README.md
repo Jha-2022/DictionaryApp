@@ -30,17 +30,22 @@ A modern web browser (Chrome, Firefox, etc.)
 
 ## Installation
 Clone this repository:
-
-text
+```
 git clone https://github.com/Jha-2022/WeatherApp.git
+
+```
 Navigate to the project directory:
 
-text
+```
 cd WeatherApp
+```
 (If required) Update your API key in the JavaScript files:
 
+```
 js
 let apiKey = "Your OpenWeatherMap API Key";
+
+```
 Open index.html in your browser to view the app.
 
 ## Usage
