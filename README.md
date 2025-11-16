@@ -50,7 +50,7 @@ cd DictionaryApp
 let apiKey = "https://api.dictionaryapi.dev/api/v2/entries/en/<word>";
 
 ```
-Open index.html in your browser to view the app.
+### Open index.html in your browser to view the app.
 
 ## Usage
 Type a word into the search bar and press Enter to view its definition.​
