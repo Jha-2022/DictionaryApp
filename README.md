@@ -13,7 +13,9 @@ Responsive and user-friendly interface suitable for desktop and mobile devices.
 
 
 ## Demo
+<p>
     <img src="https://cocoindex.io/images/github.svg" alt="CocoIndex">
+</p>
 
 Technologies Used
 
