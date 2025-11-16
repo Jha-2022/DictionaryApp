@@ -50,14 +50,15 @@ let apiKey = "https://api.dictionaryapi.dev/api/v2/entries/en/<word>";
 Open index.html in your browser to view the app.
 
 ## Usage
-Enter a city name in the search bar and press enter to view live weather data.​
+Type a word into the search bar and press Enter to view its definition.​
 
-View temperature, humidity, and other details directly on the home page.
+The app will display word meaning, pronunciation, synonyms, antonyms, and example usage all in one place.
+
 
 ## Contributing
-Pull requests are welcome. Please open issues to discuss any major changes before contributing.
-
+Contributions are welcome! Please open an issue to discuss proposed changes or new features before submitting a pull request.
 ## License
-Specify your license here. (e.g., MIT License)
+Specify your license here (e.g., MIT License).
 
-Feel free to personalize and expand sections further based on your project specifics and future improvements.​
+Feel free to expand this project by adding additional features like word history, offline support, or integration with a thesaurus API.​
+
